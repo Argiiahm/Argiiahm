@@ -27,10 +27,4 @@
 
 ---
 
-### ⚡ About me:
-- 😄 Saya suka ngoprek tampilan web
-- 📚 Saat ini saya lagi memahami lebib dalam tentang JS
-
----
-
 ![Argi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Argiiahm&show_icons=true&theme=radical)
