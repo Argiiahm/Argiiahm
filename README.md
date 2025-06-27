@@ -2,7 +2,7 @@
 <p align="center">💻 Pelajar | Web Developer | Belajar Flutter 🚀</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+GitHub!;I'm+a+passionate+developer+from+Indonesia." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+GitHub!;" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,10 +26,9 @@
 
 ---
 
-### ⚡ Fun Facts:
+### ⚡ About me:
 - 😄 Saya suka ngoprek tampilan web
-- 📚 Lagi belajar Flutter & Laravel
-- ✨ Motto: *"Belajar itu bukan soal bisa, tapi soal mau!"*
+- 📚 Saat ini saya lagi memahami lebib dalam tentang JS
 
 ---
 
