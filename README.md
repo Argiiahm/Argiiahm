@@ -1,4 +1,4 @@
-<h1 align="center">Hallo 👋, Saya Argi Ahmes Halepiyandra</h1>
+<h1 align="center">Hallo 👋 Saya, Argi Ahmes Halepiyandra</h1>
 <p align="center">💻 Pelajar | Web Developer🚀</p>
 
 <p align="center">
