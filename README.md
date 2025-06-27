@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<h1 align="center">Saya Argi Ahmes Halepiyandra!</h1>
-<h3 align="center">Pelajar</h3>
+<h1>Saya Argi Ahmes Halepiyandra!</h1>
+<h3">Saya Seorang Pelajar</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Media Sosial:</h3>
 <p align="left">
 <a href="https://instagram.com/argiiahm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="argiiahm" height="30" width="40" /></a>
 </p>
