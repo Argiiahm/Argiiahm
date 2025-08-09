@@ -1,11 +1,4 @@
-<h1 align="center">Hallo 👋 Saya, Argi Ahmes Halepiyandra</h1>
-<p align="center">💻 Saat ini saya seorang pelajar!🚀</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+GitHub!;" alt="Typing SVG" />
-</p>
-
----
 
 ### 🌐 Connect with me
 <p align="left">
