@@ -14,7 +14,6 @@ Saya **Argi Ahmes Halepiyandra** 🙌
 </a>
 
 ---
-
 ### 🛠️ Languages and Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML5"/>
