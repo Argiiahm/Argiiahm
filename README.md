@@ -1,6 +1,5 @@
 # 👋 Hello There!
 Saya **Argi Ahmes Halepiyandra** 🙌
-
 ---
 ### ✨ Fun Learn
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9A7&width=500&lines=Fun+learn;Enjoy+the+project;Always+Learning+New+Things"/>
