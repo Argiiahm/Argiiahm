@@ -21,7 +21,6 @@ Saya **Argi Ahmes Halepiyandra** 🙌
   <img src="https://laravel.com/img/logomark.min.svg" width="40px" title="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
 </p>
-
 ---
 
 ### 📊 GitHub Stats
