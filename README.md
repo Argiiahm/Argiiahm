@@ -1,17 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hello+There+👋;I'm+Argi+Ahmes+Halepiyandra;Fullstack+Developer;Welcome+To+My+Github+Profile" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Fullstack-Developer-18181B?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Based-Indonesia-18181B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dark-Aesthetic-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
-
----
-
 # 🌑 About Me
 
 ```ts
@@ -72,9 +58,9 @@ Saya terbiasa menggunakan **Git** dan memiliki pemahaman dasar mengenai **analis
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=argiiahm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=argiiahm&theme=github-dark-blue&hide_border=true&background=0d1117" />
 
 </div>
 
@@ -84,7 +70,7 @@ Saya terbiasa menggunakan **Git** dan memiliki pemahaman dasar mengenai **analis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argiiahm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
 
 </div>
 
