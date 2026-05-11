@@ -4,8 +4,8 @@
 const argi = {
   name: "Argi Ahmes Halepiyandra",
   role: "Fullstack Developer",
-  education: "Software Engineering Graduate",
-  location: "Indonesia",
+  education: "Software Engineering",
+  location: "Central Java, Indonesia",
   focus: [
     "Frontend Development",
     "Backend Development",
