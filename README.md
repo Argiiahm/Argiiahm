@@ -1,4 +1,4 @@
-# 🌑 About Me
+# About Me
 
 ```ts
 const argi = {
@@ -20,24 +20,6 @@ Halo, saya **Argi**, lulusan **Rekayasa Perangkat Lunak** yang memiliki keahlian
 Saya terbiasa menggunakan **Git** dan memiliki pemahaman dasar mengenai **analisis sistem, debugging, dan problem solving**. Saya memiliki semangat untuk terus belajar dan mengembangkan kemampuan di bidang **software development**, serta siap berkontribusi dalam lingkungan profesional.
 
 
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.elunivedev.my.id/">
-  <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/argiiahm">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🌑 Aesthetic Mode
 
 <div align="center">
 
