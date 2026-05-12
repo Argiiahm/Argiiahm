@@ -1,7 +1,5 @@
-# About Me
-
 ```ts
-const argi = {
+const Me = {
   name: "Argi Ahmes Halepiyandra",
   role: "Fullstack Developer",
   education: "Software Engineering",
