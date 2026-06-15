@@ -1,17 +1,3 @@
-```ts
-const Me = {
-  name: "Argi Ahmes Halepiyandra",
-  role: "Fullstack Developer",
-  education: "Software Engineering",
-  location: "Central Java, Indonesia",
-  focus: [
-    "Frontend Development",
-    "Backend Development",
-    "REST API",
-    "Modern Web App",
-  ],
-};
-```
 
 Halo, saya **Argi**, lulusan **Rekayasa Perangkat Lunak** yang memiliki keahlian dalam pengembangan website dan aplikasi berbasis web, termasuk **HTML, CSS, JavaScript**, serta manajemen database.
 
