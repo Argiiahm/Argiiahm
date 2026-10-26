@@ -5,9 +5,9 @@
   <a href="https://github.com/Argiiahm">
     <img src="https://komarev.com/ghpvc/?username=Argiiahm" alt="Profile views" />
   </a>
-  <a href="https://elunivedev.my.id">
+  <!-- <a href="https://elunivedev.my.id">
     <img alt="Website" src="https://www.elunive.id/images/elunive-logo-white.png">
-  </a>
+  </a> -->
   <a href="https://github.com/Argiiahm?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Argiiahm?style=flat&logo=github">
   </a>
@@ -49,13 +49,13 @@
       <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
       </a>
-      <br>Tailwind CSS
+      <br>TailwindCSS
     </td>
     <td align="center" width="96">
       <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" />
       </a>
-      <br>Linux
+      <br>Laravel
     </td>
   </tr>
 </table>
